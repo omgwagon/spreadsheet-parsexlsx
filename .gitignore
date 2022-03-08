@@ -17,3 +17,9 @@ Spreadsheet-ParseXLSX-*
 *.bs
 *.o
 .Rproj.user
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
